@@ -1,10 +1,14 @@
 
 var Calculator = function (add, subtract, multiply, divide) {
-  this.add: "add";
-  this.subtract: "subtract";
-  this.multiply:"multiply";
-  this.divide: "divide";
+  this.add: "+";
+  this.subtract: "-";
+  this.multiply:"*";
+  this.divide: "/";
 }
+
+var num1 = ;
+var num2 = ;
+
 prompt("Please enter a value1");
 prompt("Please enter another value2");
 
